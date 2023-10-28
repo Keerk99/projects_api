@@ -1,0 +1,90 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Text Encryptor",
+      "description": "Challenge Oracle",
+      "repository": "https://github.com/Keerk99/encriptador.github.io",
+      "web": "https://keerk99.github.io/encriptador.github.io/"
+    },
+    {
+      "id": 2,
+      "title": "AluraGeek",
+      "description": "Challenge Oracle",
+      "repository": "https://github.com/Keerk99/AluraGeek",
+      "web": "https://alurageek-theta.vercel.app/"
+    },
+    {
+      "id": 3,
+      "title": "AluraFlix",
+      "description": "Challenge Oracle",
+      "repository": "https://github.com/Keerk99/AluraFlix",
+      "web": "https://alura-flix-cyan.vercel.app/"
+    },
+    {
+      "id": 4,
+      "title": "CinePreviews",
+      "description": "Search your movies",
+      "repository": "https://github.com/Keerk99/Movie-Trailer",
+      "web": "https://movie-trailer-amber.vercel.app/"
+    },
+    {
+      "id": 5,
+      "title": "Rick and Morty",
+      "description": "Using Rick and Morty's API",
+      "repository": "https://github.com/Keerk99/React_Rick_and_Morty",
+      "web": "https://react-rick-and-morty-drab.vercel.app/"
+    },
+    {
+      "id": 6,
+      "title": "Age Calculator",
+      "description": "Calculate your age with exact months and days",
+      "repository": "https://github.com/Keerk99/AgeCalculator",
+      "web": "https://age-calculator-sandy-eight.vercel.app/"
+    }
+  ],
+  "proyectos": [
+    {
+      "id": 1,
+      "title": "Encriptador de Texto",
+      "description": "Challenge Oracle",
+      "repository": "https://github.com/Keerk99/encriptador.github.io",
+      "web": "https://keerk99.github.io/encriptador.github.io/"
+    },
+    {
+      "id": 2,
+      "title": "AluraGeek",
+      "description": "Challenge Oracle",
+      "repository": "https://github.com/Keerk99/AluraGeek",
+      "web": "https://alurageek-theta.vercel.app/"
+    },
+    {
+      "id": 3,
+      "title": "AluraFlix",
+      "description": "Challenge Oracle",
+      "repository": "https://github.com/Keerk99/AluraFlix",
+      "web": "https://alura-flix-cyan.vercel.app/"
+    },
+    {
+      "id": 4,
+      "title": "CinePreviews",
+      "description": "Search your movies",
+      "repository": "https://github.com/Keerk99/Movie-Trailer",
+      "web": "https://movie-trailer-amber.vercel.app/"
+    },
+    {
+      "id": 5,
+      "title": "Rick and Morty",
+      "description": "Consumiendo API de Rick and Morty",
+      "repository": "https://github.com/Keerk99/React_Rick_and_Morty",
+      "web": "https://react-rick-and-morty-drab.vercel.app/"
+    },
+    {
+      "id": 6,
+      "title": "Age Calculator",
+      "description": "Calcula tu edad con los meses y días exactos",
+      "repository": "https://github.com/Keerk99/AgeCalculator",
+      "web": "https://age-calculator-sandy-eight.vercel.app/"
+    }
+  ]
+}
