@@ -6,42 +6,47 @@
       "description": "Challenge Oracle",
       "repository": "https://github.com/Keerk99/encriptador.github.io",
       "web": "https://keerk99.github.io/encriptador.github.io/",
-      "image": "./img/proyecto1.JPG"
+      "image": "https://raw.githubusercontent.com/Keerk99/projects_api/main/img/proyecto1.JPG"
     },
     {
       "id": 2,
       "title": "AluraGeek",
       "description": "Challenge Oracle",
       "repository": "https://github.com/Keerk99/AluraGeek",
-      "web": "https://alurageek-theta.vercel.app/"
+      "web": "https://alurageek-theta.vercel.app/",
+      "image": "https://raw.githubusercontent.com/Keerk99/projects_api/main/img/proyecto2.JPG"
     },
     {
       "id": 3,
       "title": "AluraFlix",
       "description": "Challenge Oracle",
       "repository": "https://github.com/Keerk99/AluraFlix",
-      "web": "https://alura-flix-cyan.vercel.app/"
+      "web": "https://alura-flix-cyan.vercel.app/",
+      "image": "https://raw.githubusercontent.com/Keerk99/projects_api/main/img/proyecto3.JPG"
     },
     {
       "id": 4,
       "title": "CinePreviews",
       "description": "Search your movies",
       "repository": "https://github.com/Keerk99/Movie-Trailer",
-      "web": "https://movie-trailer-amber.vercel.app/"
+      "web": "https://movie-trailer-amber.vercel.app/",
+      "image": "https://raw.githubusercontent.com/Keerk99/projects_api/main/img/proyecto4.JPG"
     },
     {
       "id": 5,
       "title": "Rick and Morty",
       "description": "Using Rick and Morty's API",
       "repository": "https://github.com/Keerk99/React_Rick_and_Morty",
-      "web": "https://react-rick-and-morty-drab.vercel.app/"
+      "web": "https://react-rick-and-morty-drab.vercel.app/",
+      "image": "https://raw.githubusercontent.com/Keerk99/projects_api/main/img/proyecto5.JPG"
     },
     {
       "id": 6,
       "title": "Age Calculator",
       "description": "Calculate your age with exact months and days",
       "repository": "https://github.com/Keerk99/AgeCalculator",
-      "web": "https://age-calculator-sandy-eight.vercel.app/"
+      "web": "https://age-calculator-sandy-eight.vercel.app/",
+      "image": "https://raw.githubusercontent.com/Keerk99/projects_api/main/img/proyecto6.JPG"
     }
   ],
   "proyectos": [
@@ -50,42 +55,48 @@
       "title": "Encriptador de Texto",
       "description": "Challenge Oracle",
       "repository": "https://github.com/Keerk99/encriptador.github.io",
-      "web": "https://keerk99.github.io/encriptador.github.io/"
+      "web": "https://keerk99.github.io/encriptador.github.io/",
+      "image": "https://raw.githubusercontent.com/Keerk99/projects_api/main/img/proyecto1.JPG"
     },
     {
       "id": 2,
       "title": "AluraGeek",
       "description": "Challenge Oracle",
       "repository": "https://github.com/Keerk99/AluraGeek",
-      "web": "https://alurageek-theta.vercel.app/"
+      "web": "https://alurageek-theta.vercel.app/",
+      "image": "https://raw.githubusercontent.com/Keerk99/projects_api/main/img/proyecto2.JPG"
     },
     {
       "id": 3,
       "title": "AluraFlix",
       "description": "Challenge Oracle",
       "repository": "https://github.com/Keerk99/AluraFlix",
-      "web": "https://alura-flix-cyan.vercel.app/"
+      "web": "https://alura-flix-cyan.vercel.app/",
+      "image": "https://raw.githubusercontent.com/Keerk99/projects_api/main/img/proyecto3.JPG"
     },
     {
       "id": 4,
       "title": "CinePreviews",
       "description": "Search your movies",
       "repository": "https://github.com/Keerk99/Movie-Trailer",
-      "web": "https://movie-trailer-amber.vercel.app/"
+      "web": "https://movie-trailer-amber.vercel.app/",
+      "image": "https://raw.githubusercontent.com/Keerk99/projects_api/main/img/proyecto4.JPG"
     },
     {
       "id": 5,
       "title": "Rick and Morty",
       "description": "Consumiendo API de Rick and Morty",
       "repository": "https://github.com/Keerk99/React_Rick_and_Morty",
-      "web": "https://react-rick-and-morty-drab.vercel.app/"
+      "web": "https://react-rick-and-morty-drab.vercel.app/",
+      "image": "https://raw.githubusercontent.com/Keerk99/projects_api/main/img/proyecto5.JPG"
     },
     {
       "id": 6,
       "title": "Age Calculator",
       "description": "Calcula tu edad con los meses y días exactos",
       "repository": "https://github.com/Keerk99/AgeCalculator",
-      "web": "https://age-calculator-sandy-eight.vercel.app/"
+      "web": "https://age-calculator-sandy-eight.vercel.app/",
+      "image": "https://raw.githubusercontent.com/Keerk99/projects_api/main/img/proyecto6.JPG"
     }
   ]
 }
