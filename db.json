@@ -47,6 +47,14 @@
       "repository": "https://github.com/Keerk99/AgeCalculator",
       "web": "https://age-calculator-sandy-eight.vercel.app/",
       "image": "https://raw.githubusercontent.com/Keerk99/projects_api/main/img/proyecto6.JPG"
+    },
+    {
+      "id": 7,
+      "title": "Sunnyside Agency",
+      "description": "Landing Page",
+      "repository": "https://github.com/Keerk99/sunnyside",
+      "web": "https://sunnyside-keerk99.vercel.app/",
+      "image": "https://raw.githubusercontent.com/Keerk99/projects_api/main/img/proyecto7.JPG"
     }
   ],
   "proyectos": [
@@ -97,6 +105,14 @@
       "repository": "https://github.com/Keerk99/AgeCalculator",
       "web": "https://age-calculator-sandy-eight.vercel.app/",
       "image": "https://raw.githubusercontent.com/Keerk99/projects_api/main/img/proyecto6.JPG"
+    },
+    {
+      "id": 7,
+      "title": "Sunnyside",
+      "description": "Landing Page",
+      "repository": "https://github.com/Keerk99/sunnyside",
+      "web": "https://sunnyside-keerk99.vercel.app/",
+      "image": "https://raw.githubusercontent.com/Keerk99/projects_api/main/img/proyecto7.JPG"
     }
   ]
 }
