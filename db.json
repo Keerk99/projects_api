@@ -55,6 +55,14 @@
       "repository": "https://github.com/Keerk99/sunnyside",
       "web": "https://sunnyside-keerk99.vercel.app/",
       "image": "https://raw.githubusercontent.com/Keerk99/projects_api/main/img/proyecto7.JPG"
+    },
+    {
+      "id": 8,
+      "title": "Base Apparel",
+      "description": "Coming soon page",
+      "repository": "https://github.com/Keerk99/base-apparel",
+      "web": "https://base-apparel-five-kohl.vercel.app/",
+      "image": "https://raw.githubusercontent.com/Keerk99/projects_api/main/img/proyecto8.JPG"
     }
   ],
   "proyectos": [
@@ -113,6 +121,14 @@
       "repository": "https://github.com/Keerk99/sunnyside",
       "web": "https://sunnyside-keerk99.vercel.app/",
       "image": "https://raw.githubusercontent.com/Keerk99/projects_api/main/img/proyecto7.JPG"
+    },
+    {
+      "id": 8,
+      "title": "Base Apparel",
+      "description": "Página de aviso",
+      "repository": "https://github.com/Keerk99/base-apparel",
+      "web": "https://base-apparel-five-kohl.vercel.app/",
+      "image": "https://raw.githubusercontent.com/Keerk99/projects_api/main/img/proyecto8.JPG"
     }
   ]
 }
