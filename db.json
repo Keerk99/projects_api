@@ -63,6 +63,14 @@
       "repository": "https://github.com/Keerk99/base-apparel",
       "web": "https://base-apparel-five-kohl.vercel.app/",
       "image": "https://raw.githubusercontent.com/Keerk99/projects_api/main/img/proyecto8.JPG"
+    },
+    {
+      "id": 9,
+      "title": "Where in the world?",
+      "description": "Basic data about countries",
+      "repository": "https://github.com/Keerk99/country-search",
+      "web": "https://country-search-khaki.vercel.app/",
+      "image": "https://raw.githubusercontent.com/Keerk99/projects_api/main/img/proyecto9.JPG"
     }
   ],
   "proyectos": [
@@ -129,6 +137,14 @@
       "repository": "https://github.com/Keerk99/base-apparel",
       "web": "https://base-apparel-five-kohl.vercel.app/",
       "image": "https://raw.githubusercontent.com/Keerk99/projects_api/main/img/proyecto8.JPG"
+    },
+    {
+      "id": 9,
+      "title": "Where in the world?",
+      "description": "Datos basicos de países",
+      "repository": "https://github.com/Keerk99/country-search",
+      "web": "https://country-search-khaki.vercel.app/",
+      "image": "https://raw.githubusercontent.com/Keerk99/projects_api/main/img/proyecto9.JPG"
     }
   ]
 }
