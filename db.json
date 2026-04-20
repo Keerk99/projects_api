@@ -2,17 +2,15 @@
   "projects": [
     {
       "id": 1,
-      "title": "Text Encryptor",
-      "description": "Challenge Oracle",
-      "repository": "https://github.com/Keerk99/encriptador.github.io",
-      "web": "https://keerk99.github.io/encriptador.github.io/",
+      "title": "Unit Converter",
+      "description": "Convert units in seconds",
+      "web": "https://www.unitconverterhub.lat",
       "image": "https://raw.githubusercontent.com/Keerk99/projects_api/main/img/project1.png"
     },
     {
       "id": 2,
       "title": "CinePreviews",
       "description": "Search your movies",
-      "repository": "https://github.com/Keerk99/Movie-Trailer",
       "web": "https://movie-trailer-amber.vercel.app/",
       "image": "https://raw.githubusercontent.com/Keerk99/projects_api/main/img/project2.JPG"
     },
@@ -20,7 +18,6 @@
       "id": 3,
       "title": "Rick and Morty",
       "description": "Using Rick and Morty's API",
-      "repository": "https://github.com/Keerk99/React_Rick_and_Morty",
       "web": "https://react-rick-and-morty-drab.vercel.app/",
       "image": "https://raw.githubusercontent.com/Keerk99/projects_api/main/img/project3.JPG"
     },
@@ -28,7 +25,6 @@
       "id": 4,
       "title": "Age Calculator",
       "description": "Calculate your age with exact months and days",
-      "repository": "https://github.com/Keerk99/AgeCalculator",
       "web": "https://age-calculator-sandy-eight.vercel.app/",
       "image": "https://raw.githubusercontent.com/Keerk99/projects_api/main/img/project4.JPG"
     },
@@ -36,7 +32,6 @@
       "id": 5,
       "title": "Sunnyside Agency",
       "description": "Landing Page",
-      "repository": "https://github.com/Keerk99/sunnyside",
       "web": "https://sunnyside-keerk99.vercel.app/",
       "image": "https://raw.githubusercontent.com/Keerk99/projects_api/main/img/project5.JPG"
     },
@@ -44,7 +39,6 @@
       "id": 6,
       "title": "Base Apparel",
       "description": "Coming soon page",
-      "repository": "https://github.com/Keerk99/base-apparel",
       "web": "https://base-apparel-five-kohl.vercel.app/",
       "image": "https://raw.githubusercontent.com/Keerk99/projects_api/main/img/project6.JPG"
     },
@@ -52,7 +46,6 @@
       "id": 7,
       "title": "Where in the world?",
       "description": "Basic data about countries",
-      "repository": "https://github.com/Keerk99/country-search",
       "web": "https://country-search-khaki.vercel.app/",
       "image": "https://raw.githubusercontent.com/Keerk99/projects_api/main/img/project7.JPG"
     }
@@ -60,17 +53,15 @@
   "proyectos": [
     {
       "id": 1,
-      "title": "Encriptador de Texto",
-      "description": "Challenge Oracle",
-      "repository": "https://github.com/Keerk99/encriptador.github.io",
-      "web": "https://keerk99.github.io/encriptador.github.io/",
+      "title": "Unit Converter",
+      "description": "Convierte unidades en segundos",
+      "web": "https://www.unitconverterhub.lat",
       "image": "https://raw.githubusercontent.com/Keerk99/projects_api/main/img/project1.png"
     },
     {
       "id": 2,
       "title": "CinePreviews",
       "description": "Search your movies",
-      "repository": "https://github.com/Keerk99/Movie-Trailer",
       "web": "https://movie-trailer-amber.vercel.app/",
       "image": "https://raw.githubusercontent.com/Keerk99/projects_api/main/img/project2.JPG"
     },
@@ -78,7 +69,6 @@
       "id": 3,
       "title": "Rick and Morty",
       "description": "Consumiendo API de Rick and Morty",
-      "repository": "https://github.com/Keerk99/React_Rick_and_Morty",
       "web": "https://react-rick-and-morty-drab.vercel.app/",
       "image": "https://raw.githubusercontent.com/Keerk99/projects_api/main/img/project3.JPG"
     },
@@ -86,7 +76,6 @@
       "id": 4,
       "title": "Age Calculator",
       "description": "Calcula tu edad con los meses y días exactos",
-      "repository": "https://github.com/Keerk99/AgeCalculator",
       "web": "https://age-calculator-sandy-eight.vercel.app/",
       "image": "https://raw.githubusercontent.com/Keerk99/projects_api/main/img/project4.JPG"
     },
@@ -94,7 +83,6 @@
       "id": 5,
       "title": "Sunnyside",
       "description": "Landing Page",
-      "repository": "https://github.com/Keerk99/sunnyside",
       "web": "https://sunnyside-keerk99.vercel.app/",
       "image": "https://raw.githubusercontent.com/Keerk99/projects_api/main/img/project5.JPG"
     },
@@ -102,7 +90,6 @@
       "id": 6,
       "title": "Base Apparel",
       "description": "Página de aviso",
-      "repository": "https://github.com/Keerk99/base-apparel",
       "web": "https://base-apparel-five-kohl.vercel.app/",
       "image": "https://raw.githubusercontent.com/Keerk99/projects_api/main/img/project6.JPG"
     },
@@ -110,7 +97,6 @@
       "id": 7,
       "title": "Where in the world?",
       "description": "Datos basicos de países",
-      "repository": "https://github.com/Keerk99/country-search",
       "web": "https://country-search-khaki.vercel.app/",
       "image": "https://raw.githubusercontent.com/Keerk99/projects_api/main/img/project7.JPG"
     }
